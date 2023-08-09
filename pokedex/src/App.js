@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pokedex
+          Pokedex Test
         </a>
       </header>
     </div>
